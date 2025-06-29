@@ -190,7 +190,7 @@ MonoBehaviour:
     minValue: 0
   alliance: 1
   materialFlash: {fileID: 4355375391262487455}
-  speed: 10
+  speed: 40
   weapon: {fileID: 8287576206095525285}
   lifeBar: {fileID: 0}
   gameOverMenu: {fileID: 0}
