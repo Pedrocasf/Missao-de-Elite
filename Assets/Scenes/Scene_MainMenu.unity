@@ -1914,9 +1914,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1262080207818030751, guid: 67f4fb845bb2acb42b242390891f57a0, type: 3}
       propertyPath: m_text
-      value: 'Configuracoes
-
-'
+      value: "Configura\xE7\xF4es\n"
       objectReference: {fileID: 0}
     - target: {fileID: 1371815920592477601, guid: 67f4fb845bb2acb42b242390891f57a0, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -2841,7 +2839,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 04fd41924b26c6057b603618410d3233, type: 3}
+  m_Texture: {fileID: 2800000, guid: d91d8e561cf0a3b5990eaa247c0d06ab, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -2866,9 +2864,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1262080207818030751, guid: 67f4fb845bb2acb42b242390891f57a0, type: 3}
       propertyPath: m_text
-      value: 'Creditos
-
-'
+      value: "Cr\xE9ditos\n"
       objectReference: {fileID: 0}
     - target: {fileID: 1371815920592477601, guid: 67f4fb845bb2acb42b242390891f57a0, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size

@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mat_Yellow
+  m_Name: Mat_Yellow Variant
   m_Shader: {fileID: 4800000, guid: b7839dad95683814aa64166edc107ae2, type: 3}
-  m_Parent: {fileID: 2100000, guid: 00ed9b8b393cdda77af67b947bf36c30, type: 2}
+  m_Parent: {fileID: 2100000, guid: 8dfb4bc7a23ccc5478a9b6c49202ca98, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords:
@@ -26,15 +26,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Ints: []
-    m_Floats:
-    - _Metallic: 1
-    - _Smoothness: 0
-    m_Colors:
-    - _BaseColor: {r: 1, g: 0.9036807, b: 0, a: 1}
-    - _Color: {r: 1, g: 0.9036807, b: 0, a: 1}
+    m_Floats: []
+    m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &5294237456403331828
+--- !u!114 &3424661478290727272
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
