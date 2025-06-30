@@ -909,14 +909,14 @@ RectTransform:
   m_GameObject: {fileID: 517194111}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 10, y: 10, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2376352}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 50, y: -125}
+  m_AnchoredPosition: {x: -1254, y: 511}
   m_SizeDelta: {x: 300, y: 300}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &517194113
@@ -932,14 +932,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
-  m_RaycastTarget: 1
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
+  m_Maskable: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c438916413eae86bfb285a9494e2b904, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 017634f7a82d622e18794d25a7300662, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -956,7 +956,7 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 517194111}
-  m_CullTransparentMesh: 1
+  m_CullTransparentMesh: 0
 --- !u!1001 &541171212
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2238,7 +2238,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8086991817657139007, guid: df79ebc28001f8a438d661dbd9104ea9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -13.9
+      value: -1.7
       objectReference: {fileID: 0}
     - target: {fileID: 8086991817657139007, guid: df79ebc28001f8a438d661dbd9104ea9, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3104,7 +3104,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8086991817657139007, guid: df79ebc28001f8a438d661dbd9104ea9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -13.9
+      value: -1.7
       objectReference: {fileID: 0}
     - target: {fileID: 8086991817657139007, guid: df79ebc28001f8a438d661dbd9104ea9, type: 3}
       propertyPath: m_LocalPosition.z
